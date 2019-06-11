@@ -1,0 +1,41 @@
+.header{
+    background-color: azure;
+    height: 50px;
+}
+.navbar{
+    float: right;
+    
+}
+#horizontal-list li{
+    display: inline-block;
+}
+#searchbar{
+    float: right;
+}
+
+
+
+.sidenav {
+    height: 100%; 
+    float: left;
+    margin-right: 75px;
+}
+
+.recent-reviews{
+    padding-left: 15px;
+    margin-bottom: 10px;
+
+}
+
+.videosrightbar ul{
+    float: right;
+    
+}
+.videosrightbar{
+    text-align:right;
+    
+}
+.container-fluid.custom-container {
+    background-color: azure;
+   
+  }
